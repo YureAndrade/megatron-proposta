@@ -1,0 +1,55 @@
+﻿secao;descricao;bitola;cor;codigo;qtd;unid;metros;preco_unit;total_linha;desc_totvs;obs
+Cabo Tripolar;PP 3 vias HEPR 0,6/1kV 3x10mm;10mm;PRETO;011127F0001PT00;1121.87;m;1121.87;47,2400;52997,1400;CABO PP FLEXIVEL HEPR 0,6/1,0KV 3X10,00MM 1M PT;tripolar HEPR so existe em preto | so existe por metro na tabela
+Cabo Tripolar;PP 3 vias HEPR 0,6/1kV 3x2,5mm;2.5mm;PRETO;011124B0500PT00;1;bobina 500m;500;6130,4797;6130,4800;BOB CABO PP FLEXIVEL HEPR 0,6/1,0KV 3X2,50MM 500M PT;tripolar HEPR so existe em preto
+Cabo Tripolar;PP 3 vias HEPR 0,6/1kV 3x2,5mm;2.5mm;PRETO;011124R0100PT00;2;rolo 100m;200;1226,0959;2452,1900;CABO PP FLEXIVEL HEPR 0,6/1,0KV 3X2,50MM 100M PT;tripolar HEPR so existe em preto | pedido 600.42m -> 700m (sobra 99.58m)
+Bombeiro;Cabo 3 vias 1,5mm BLINDADO (shield) vermelho;1.5mm;-;SOB CONSULTA;2500;m;2500;;;;Nao ha cabo blindado na tabela - cotar com fornecedor especifico
+Bombeiro;Fio flexivel 750V 1,5mm;1.5mm;VERMELHO;010404B1400VM00;1;bobina 1400m;1400;2791,8761;2791,8800;BOB FLEXIVEL 1,50 MM 1400M VM;fio bombeiro 750V
+Bombeiro;Fio flexivel 750V 1,5mm;1.5mm;VERMELHO;010404R0100VM00;11;rolo 100m;1100;199,4197;2193,6200;CABO FLEXIVEL 1,50 MM 100M VM;fio bombeiro 750V | pedido 2500m -> 2500m (sobra 0m)
+Bombeiro;Fio flexivel 750V 1,5mm;1.5mm;PRETO;010404B1400PT00;1;bobina 1400m;1400;2791,8761;2791,8800;BOB FLEXIVEL 1,50 MM 1400M PR;fio bombeiro 750V
+Bombeiro;Fio flexivel 750V 1,5mm;1.5mm;PRETO;010404R0100PT00;11;rolo 100m;1100;199,4197;2193,6200;CABO FLEXIVEL 1,50 MM 100M PR;fio bombeiro 750V | pedido 2500m -> 2500m (sobra 0m)
+Bombeiro;Fio flexivel 750V 1,5mm;1.5mm;VERDE;010404B1400VD00;1;bobina 1400m;1400;2791,8761;2791,8800;BOB FLEXIVEL 1,50 MM 1400M VD;fio bombeiro 750V
+Bombeiro;Fio flexivel 750V 1,5mm;1.5mm;VERDE;010404R0100VD00;11;rolo 100m;1100;199,4197;2193,6200;CABO FLEXIVEL 1,50 MM 100M VD;fio bombeiro 750V | pedido 2500m -> 2500m (sobra 0m)
+Cabo Unipolar;Cabo flexivel HEPR 0,6/1kV 2.5mm;2.5mm;PRETO;011102B1000PT00;6;bobina 1000m;6000;3480,8498;20885,1000;BOB CABO FLEXIVEL HEPR 0,6/1,0KV 2,50MM 1000M PT    -    Sob Consulta;inclui amarelo->preto
+Cabo Unipolar;Cabo flexivel HEPR 0,6/1kV 2.5mm;2.5mm;PRETO;011102B0500PT00;1;bobina 500m;500;1740,4249;1740,4200;BOB CABO FLEXIVEL HEPR 0,6/1,0KV 2,50MM 500M PT    -    Sob Consulta;inclui amarelo->preto
+Cabo Unipolar;Cabo flexivel HEPR 0,6/1kV 2.5mm;2.5mm;PRETO;011102R0100PT00;4;rolo 100m;400;348,0850;1392,3400;CABO FLEXIVEL HEPR 0,6/1,0KV 2,50MM 100M PT;inclui amarelo->preto | pedido 6807.5m -> 6900m (sobra 92.5m)
+Cabo Unipolar;Cabo flexivel HEPR 0,6/1kV 2.5mm;2.5mm;AZUL;011102B1000AZ00;6;bobina 1000m;6000;3480,8498;20885,1000;BOB CABO FLEXIVEL HEPR 0,6/1,0KV 2,50MM 1000M AZ    -    Sob Consulta;
+Cabo Unipolar;Cabo flexivel HEPR 0,6/1kV 2.5mm;2.5mm;AZUL;011102B0500AZ00;1;bobina 500m;500;1740,4249;1740,4200;BOB CABO FLEXIVEL HEPR 0,6/1,0KV 2,50MM 500M AZ    -    Sob Consulta;pedido 6123.6m -> 6500m (sobra 376.4m)
+Cabo Unipolar;Cabo flexivel HEPR 0,6/1kV 2.5mm;2.5mm;VERDE;011102B1000VD00;2;bobina 1000m;2000;3480,8498;6961,7000;BOB CABO FLEXIVEL HEPR 0,6/1,0KV 2,50MM 1000M VD    -    Sob Consulta;
+Cabo Unipolar;Cabo flexivel HEPR 0,6/1kV 2.5mm;2.5mm;VERDE;011102B0500VD00;1;bobina 500m;500;1740,4249;1740,4200;BOB CABO FLEXIVEL HEPR 0,6/1,0KV 2,50MM 500M VD    -    Sob Consulta;pedido 2255.3m -> 2500m (sobra 244.7m)
+Cabo Unipolar;Cabo flexivel HEPR 0,6/1kV 4mm;4mm;PRETO;011103B1000PT00;6;bobina 1000m;6000;5316,8551;31901,1300;BOB CABO FLEXIVEL HEPR 0,6/1,0KV 4,00MM 1000M PT    -    Sob Consulta;inclui amarelo->preto | pedido 5816.1m -> 6000m (sobra 183.9m)
+Cabo Unipolar;Cabo flexivel HEPR 0,6/1kV 4mm;4mm;AZUL;011103B1000AZ00;3;bobina 1000m;3000;5316,8551;15950,5700;BOB CABO FLEXIVEL HEPR 0,6/1,0KV 4,00MM 1000M AZ    -    Sob Consulta;
+Cabo Unipolar;Cabo flexivel HEPR 0,6/1kV 4mm;4mm;AZUL;011103B0800AZ00;3;bobina 800m;2400;4253,4841;12760,4500;BOB CABO FLEXIVEL HEPR 0,6/1,0KV 4,00MM 800M AZ    -    Sob Consulta;pedido 5368.7m -> 5400m (sobra 31.3m)
+Cabo Unipolar;Cabo flexivel HEPR 0,6/1kV 4mm;4mm;VERDE;011103B1000VD00;1;bobina 1000m;1000;5316,8551;5316,8600;BOB CABO FLEXIVEL HEPR 0,6/1,0KV 4,00MM 1000M VD    -    Sob Consulta;
+Cabo Unipolar;Cabo flexivel HEPR 0,6/1kV 4mm;4mm;VERDE;011103B0800VD00;2;bobina 800m;1600;4253,4841;8506,9700;BOB CABO FLEXIVEL HEPR 0,6/1,0KV 4,00MM 800M VD    -    Sob Consulta;pedido 2474.7m -> 2600m (sobra 125.3m)
+Cabo Unipolar;Cabo flexivel HEPR 0,6/1kV 6mm;6mm;PRETO;011104B0500PT00;1;bobina 500m;500;3984,2011;3984,2000;BOB CABO FLEXIVEL HEPR 0,6/1,0KV 6,00MM 500M PT    -    Sob Consulta;pedido 400m -> 500m (sobra 100m)
+Cabo Unipolar;Cabo flexivel HEPR 0,6/1kV 6mm;6mm;AZUL;011104B0500AZ00;1;bobina 500m;500;3984,2011;3984,2000;BOB CABO FLEXIVEL HEPR 0,6/1,0KV 6,00MM 500M AZ    -    Sob Consulta;pedido 400m -> 500m (sobra 100m)
+Cabo Unipolar;Cabo flexivel HEPR 0,6/1kV 6mm;6mm;VERDE;011104B0500VD00;1;bobina 500m;500;3984,2011;3984,2000;BOB CABO FLEXIVEL HEPR 0,6/1,0KV 6,00MM 500M VD    -    Sob Consulta;pedido 400m -> 500m (sobra 100m)
+Cabo Unipolar;Cabo flexivel HEPR 0,6/1kV 10mm;10mm;PRETO;011105R0100PT00;5;rolo 100m;500;1397,8609;6989,3000;CABO FLEXIVEL HEPR 0,6/1,0KV 10,00MM 100M PT;pedido 500m -> 500m (sobra 0m)
+Cabo Unipolar;Cabo flexivel HEPR 0,6/1kV 10mm;10mm;AZUL;011105R0100AZ00;3;rolo 100m;300;1397,8609;4193,5800;CABO FLEXIVEL HEPR 0,6/1,0KV 10,00MM 100M AZ;pedido 250m -> 300m (sobra 50m)
+Cabo Unipolar;Cabo flexivel HEPR 0,6/1kV 10mm;10mm;VERDE;011105R0100VD00;3;rolo 100m;300;1397,8609;4193,5800;CABO FLEXIVEL HEPR 0,6/1,0KV 10,00MM 100M VD;pedido 250m -> 300m (sobra 50m)
+Cabo Unipolar;Cabo flexivel HEPR 0,6/1kV 16mm;16mm;PRETO;011106R0100PT00;5;rolo 100m;500;2234,6409;11173,2000;CABO FLEXIVEL HEPR 0,6/1,0KV 16,00MM 100M PT;pedido 500m -> 500m (sobra 0m)
+Cabo Unipolar;Cabo flexivel HEPR 0,6/1kV 16mm;16mm;AZUL;011106R0100AZ00;2;rolo 100m;200;2234,6409;4469,2800;CABO FLEXIVEL HEPR 0,6/1,0KV 16,00MM 100M AZ;pedido 200m -> 200m (sobra 0m)
+Cabo Unipolar;Cabo flexivel HEPR 0,6/1kV 16mm;16mm;VERDE;011106R0100VD00;5;rolo 100m;500;2234,6409;11173,2000;CABO FLEXIVEL HEPR 0,6/1,0KV 16,00MM 100M VD;pedido 500m -> 500m (sobra 0m)
+Cabo Unipolar;Cabo flexivel HEPR 0,6/1kV 25mm;25mm;PRETO;011107B0100PT00;3;bobina 100m;300;3485,5915;10456,7700;CABO FLEXIVEL HEPR 0,6/1,0KV 25,00MM 100M PT;pedido 300m -> 300m (sobra 0m)
+Cabo Unipolar;Cabo flexivel HEPR 0,6/1kV 25mm;25mm;AZUL;011107B0100AZ00;1;bobina 100m;100;3485,5915;3485,5900;CABO FLEXIVEL HEPR 0,6/1,0KV 25,00MM 100M AZ;pedido 100m -> 100m (sobra 0m)
+Cabo Unipolar;Cabo flexivel HEPR 0,6/1kV 25mm;25mm;VERDE;011107B0100VD00;1;bobina 100m;100;3485,5915;3485,5900;CABO FLEXIVEL HEPR 0,6/1,0KV 25,00MM 100M VD;pedido 100m -> 100m (sobra 0m)
+Cabo Unipolar;Cabo flexivel HEPR 0,6/1kV 35mm;35mm;PRETO;011108B0100PT00;1;bobina 100m;100;4922,7622;4922,7600;CABO FLEXIVEL HEPR 0,6/1,0KV 35,00MM 100M PT;pedido 50m -> 100m (sobra 50m)
+Cabo Unipolar;Cabo flexivel HEPR 0,6/1kV 35mm;35mm;AZUL;011108B0100AZ00;1;bobina 100m;100;4922,7622;4922,7600;CABO FLEXIVEL HEPR 0,6/1,0KV 35,00MM 100M AZ;pedido 20m -> 100m (sobra 80m)
+Cabo Unipolar;Cabo flexivel HEPR 0,6/1kV 35mm;35mm;VERDE;011108B0100VD00;1;bobina 100m;100;4922,7622;4922,7600;CABO FLEXIVEL HEPR 0,6/1,0KV 35,00MM 100M VD;pedido 40m -> 100m (sobra 60m)
+Cabo Unipolar;Cabo flexivel HEPR 0,6/1kV 50mm;50mm;PRETO;011109F0001PT00;450;m;450;70,5222;31734,9900;CABO FLEXIVEL HEPR 0,6/1,0KV 50,00MM 1M PT;so existe por metro na tabela
+Cabo Unipolar;Cabo flexivel HEPR 0,6/1kV 50mm;50mm;AZUL;011109F0001AZ00;200;m;200;70,5222;14104,4400;CABO FLEXIVEL HEPR 0,6/1,0KV 50,00MM 1M AZ;so existe por metro na tabela
+Cabo Unipolar;Cabo flexivel HEPR 0,6/1kV 50mm;50mm;VERDE;011109F0001VD00;300;m;300;70,5222;21156,6600;CABO FLEXIVEL HEPR 0,6/1,0KV 50,00MM 1M VD;so existe por metro na tabela
+Cabo Unipolar;Cabo flexivel HEPR 0,6/1kV 70mm;70mm;PRETO;011110F0001PT00;100;m;100;100,0071;10000,7100;CABO FLEXÍVEL HEPR 1,0KV 70,00 MM 1M PR;so existe por metro na tabela
+Cabo Unipolar;Cabo flexivel HEPR 0,6/1kV 70mm;70mm;AZUL;011110F0001AZ00;30;m;30;100,0071;3000,2100;CABO FLEXÍVEL HEPR 1,0KV 70,00 MM 1M AZ;so existe por metro na tabela
+Cabo Unipolar;Cabo flexivel HEPR 0,6/1kV 70mm;70mm;VERDE;011110F0001VD00;400;m;400;100,0071;40002,8400;CABO FLEXÍVEL HEPR 1,0KV 70,00 MM 1M VD;so existe por metro na tabela
+Cabo Unipolar;Cabo flexivel HEPR 0,6/1kV 95mm;95mm;PRETO;011111F0001PT00;850;m;850;131,9059;112120,0100;CABO FLEXIVEL HEPR-95,00MM 1M PR;so existe por metro na tabela
+Cabo Unipolar;Cabo flexivel HEPR 0,6/1kV 95mm;95mm;AZUL;011111F0001AZ00;300;m;300;131,9059;39571,7700;CABO FLEXﾍVEL HEPR-95,00 MM 1M AZ;so existe por metro na tabela
+Cabo Unipolar;Cabo flexivel HEPR 0,6/1kV 95mm;95mm;VERDE;011111F0001VD00;60;m;60;131,9059;7914,3500;CABO FLEXﾍVEL HEPR-95,00 MM 1M VD;so existe por metro na tabela
+Cabo Unipolar;Cabo flexivel HEPR 0,6/1kV 120mm;120mm;PRETO;011112F0001PT00;1200;m;1200;166,3911;199669,3200;CABO FLEXIVEL HEPR-120,00MM 1M PRETO;so existe por metro na tabela
+Cabo Unipolar;Cabo flexivel HEPR 0,6/1kV 120mm;120mm;AZUL;011112F0001AZ00;400;m;400;166,3911;66556,4400;CABO FLEXﾍVEL HEPR-120,00 MM 1M AZ;so existe por metro na tabela
+Aterramento;Cabo HEPR 25mm cobre (subst. XLPE);25mm;PRETO;011107B0100PT00;1;bobina 100m;100;3485,5915;3485,5900;CABO FLEXIVEL HEPR 0,6/1,0KV 25,00MM 100M PT;substitui 'XLPE 25mm cobre' (tabela nao tem XLPE de cobre) | pedido 25m -> 100m (sobra 75m)
+Aterramento;Cabo cobre flexivel HEPR 10mm;10mm;VERDE;011105R0100VD00;1;rolo 100m;100;1397,8609;1397,8600;CABO FLEXIVEL HEPR 0,6/1,0KV 10,00MM 100M VD;pedido 15m -> 100m (sobra 85m)
+Aterramento;Cabo cobre flexivel HEPR 50mm;50mm;VERDE;011109F0001VD00;10;m;10;70,5222;705,2200;CABO FLEXIVEL HEPR 0,6/1,0KV 50,00MM 1M VD;so existe por metro na tabela
+Aterramento;Cabo cobre flexivel HEPR 95mm;95mm;AZUL;011111F0001AZ00;252;m;252;131,9059;33240,2900;CABO FLEXﾍVEL HEPR-95,00 MM 1M AZ;so existe por metro na tabela
+Aterramento;Cabo cobre flexivel HEPR 185mm;185mm;PRETO;011114F0001PT00;760;m;760;249,1556;189358,2600;CABO FLEXIVEL HEPR-185,00MM 1M PRETO;so existe por metro na tabela
+Aterramento;Cabo Mufla Media Tensao 35mm 15/20kV;35mm;-;SOB CONSULTA;120;m;120;;;;Nao ha cabo de media tensao/mufla na tabela - cotar a parte
